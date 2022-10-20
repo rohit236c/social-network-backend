@@ -21,7 +21,7 @@
     "glob": "^7.1.6",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
-    "mongoose": "^4.13.20",
+    "mongoose": "^4.13.21",
     "morgan": "^1.9.1",
     "nodemon": "^2.0.2",
     "uuid": "^3.4.0"
